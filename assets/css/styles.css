@@ -1,0 +1,41 @@
+/* Presentation
+--------------------------------------------------------------------------------------*/
+.owner .avatar  {
+  margin: 85px;
+  max-width: 300px;
+}
+
+/* Profile
+--------------------------------------------------------------------------------------*/
+.summary {
+  margin-bottom: 35px;
+}
+
+/* Education
+--------------------------------------------------------------------------------------*/
+/* .school-pic-container{
+  height: 10em;
+  width: 10em;
+} */
+.school-pic {
+  width: 100%; 
+  height: 100%;
+  /* position: relative; */
+  object-fit: contain;
+  /* margin-bottom: 3%; */
+}
+.course-list {
+  padding: 0;
+}
+.education img {
+  max-width: 150px;
+}
+#projects img {
+  margin: 10px;
+}
+.page-header {
+  background-color: #cd7d12;
+}
+.presentation-title {
+  color: #fbf8ec;
+}
